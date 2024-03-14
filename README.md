@@ -18,3 +18,6 @@ An abstract class can have both abstract and regular methods:
 - This is where abstraction comes in handy. Instead of making a virtual method we can make an abstract method and then we don't have to provide an implementation. You can only create an abstract method inside an abstract class, so both the method and the class have to be made abstract.
 
 - an abstract method and then we don't have to provide an implementation
+![image](https://github.com/DanialPersian/AbstractionC-/assets/146435665/995d58df-12c8-4994-b6c9-c8f1ec3e6b38) ![image](https://github.com/DanialPersian/AbstractionC-/assets/146435665/6f710c81-9f2d-46bd-a2c0-5356db29852f)
+
+Here we have the files i have made and i have started using folders aswel !
